@@ -23,8 +23,10 @@ body {
   font-weight: 900;
   text-align: center;
   text-shadow: 0 0 1px black;
-  color: #fff;
-  opacity: 0.5;
+  color: #000;
+  opacity: 0.3;
+  word-wrap: break-word;
+  mix-blend-mode: screen;
 }
 .mousefollow {
   background-color: transparent;
